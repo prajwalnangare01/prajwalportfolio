@@ -190,7 +190,7 @@ const Hero = () => (
         <TypewriterHeading />
 
         <motion.p variants={fadeIn} className="text-lg text-slate-600 leading-relaxed max-w-2xl mb-10">
-          A Full-Stack Engineer based in Pune, India. I architect production-grade web applications, vertical SaaS platforms, and autonomous AI workflows—from concurrency-safe booking engines to zero-cost serverless publishing pipelines. Founder of Codiva Labs, delivering full-stack development, custom SaaS engineering, and AI automation services.
+          A Full-Stack Developer based in Pune, India, driven by building practical, high-impact software. Through founding Codiva Labs, I've developed end-to-end SaaS platforms, algorithmic market signal tools, and AI-powered business workflows. I am now seeking full-time Software Engineering opportunities where I can tackle complex technical challenges at scale.
         </motion.p>
 
         <motion.div variants={fadeIn} className="flex flex-wrap gap-4 text-sm font-medium">
@@ -298,10 +298,10 @@ const CodivaSection = () => {
 
 const Skills = () => {
   const categories = [
-    { title: "Frontend", skills: ["React 18", "Next.js 14", "TypeScript", "JavaScript (ES6+)", "Tailwind CSS", "HTML5", "CSS3", "MUI", "Chart.js"] },
-    { title: "Backend", skills: ["Node.js", "Express.js", "PostgreSQL", "Supabase", "MongoDB", "MySQL", "Redis", "SQLite", "REST APIs"] },
-    { title: "AI / ML", skills: ["Python", "MediaPipe", "WebRTC", "Groq API", "Google Gemini API", "PyTorch", "TensorFlow", "Scikit-learn", "NumPy", "Pandas", "n8n", "Meta Graph API"] },
-    { title: "DevOps & Tools", skills: ["GitHub Actions", "Docker", "Kubernetes", "CI/CD", "Razorpay API", "Git", "GitHub", "Vercel", "Render"] }
+    { title: "Frontend", skills: ["React", "Next.js", "JavaScript", "Tailwind CSS", "HTML5", "CSS3", "MUI"] },
+    { title: "Backend", skills: ["Node.js", "Express.js", "PostgreSQL", "Supabase", "MongoDB", "MySQL", "Redis"] },
+    { title: "AI / ML", skills: ["Python", "Generative AI", "Agentic AI", "RAG", "GANs", "Deep Learning", "Machine Learning", "PyTorch", "TensorFlow", "Scikit-learn", "MediaPipe", "n8n"] },
+    { title: "DevOps & Tools", skills: ["GitHub Actions", "Docker", "Kubernetes", "CI/CD", "Git", "GitHub", "Vercel", "Render"] }
   ];
 
   return (
