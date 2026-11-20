@@ -614,7 +614,7 @@ const Experience = () => {
           <strong className="text-slate-900 font-semibold">Services & Platforms Built:</strong>
           <span className="block mt-1.5 space-y-1.5 pl-3 border-l-2 border-slate-200">
             <span className="block">• <strong className="text-slate-900 font-semibold">TurfFlow:</strong> Sports arena & box cricket booking SaaS with automated WhatsApp reservations, 5-minute Redis slot locking, and Razorpay auto-refunds.</span>
-            <span className="block">• <strong className="text-slate-900 font-semibold">RVOLX:</strong> Quantitative intraday trading signals platform for NSE NIFTY 200 cash equities with HMAC-SHA256 signal ingestion bridge and sub-450ms WhatsApp alerts.</span>
+            <span className="block">• <strong className="text-slate-900 font-semibold">RVOLX:</strong> Intraday quantitative trading platform for equity traders, scanning live volume and volatility to deliver automated entry, target, and stop-loss levels via web dashboard and instant WhatsApp alerts.</span>
             <span className="block">• <strong className="text-slate-900 font-semibold">Prosperia:</strong> AI-powered real estate lead qualification, site visit scheduling, and pipeline CRM engineered to stop lead drop-offs and recover revenue.</span>
             <span className="block">• <strong className="text-slate-900 font-semibold">Aladin <span className="text-xs text-amber-600 font-medium">(Coming Soon):</span></strong> Institutional SMC-based Forex technical analysis engine for XAUUSD (Gold) spot price action, detecting CHOCH reversals and liquidity pools.</span>
           </span>
